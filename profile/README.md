@@ -15,11 +15,11 @@ Note: This repository is not an app.  This is a monorepo used to help the group 
 [![All Contributors](https://img.shields.io/badge/all_contributors-bot-orange.svg?style=flat-square)](#contributors-)
 
 <div>
-<img src="https://img.shields.io/github/discussions/gbowne1/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/license/gbowne1/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/contributors/gbowne1/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/gbowne1/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/issues/gbowne1/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/discussions/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/license/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/contributors/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/taotnpwaft?style=for-the-badge">
 </div>
 
 ## Tech Stack 🗃
@@ -60,9 +60,9 @@ Note: This repository is not an app.  This is a monorepo used to help the group 
 
 ## How to contribute?
 
-Get started with the contribution guidelines [here](https://github.com/gbowne1/taotnpwaft/blob/master/CONTRIBUTING.md).
+Get started with the contribution guidelines [here]([https://github.com/taotnpwaft/blob/master/CONTRIBUTING.md](https://github.com/taotnpwaft/metadata/blob/main/CONTRIBUTING.md)).
 
-We are actively looking for active contributors and participation to this group and its meta.  If you would like to see the things we need help with, please see TODO.md and also the [Issues] tab and the Project board on this repository as well as the one at [Wesbsite Repository](https://www.github.com/gbowne1/taotnpwaft_site/)
+We are actively looking for active contributors and participation to this group and its meta.  If you would like to see the things we need help with, please see TODO.md and also the [Issues] tab and the Project board on this repository as well as the one at [Wesbsite Repository](https://www.github.com/taotnpwaft/website/)
 
 We would like to encourage you to participate in making this one of the best social media based tech groups there is.
 
