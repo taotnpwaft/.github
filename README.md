@@ -1,6 +1,6 @@
 # The Art of Tech: Not Playing with a Full Tech
 
-If you would like to know more about our group please see ABOUT.md
+If you would like to know more about our group please see (ABOUT.md)[https://github.com/taotnpwaft/metadata/blob/main/ABOUT.md]
 
 This is the global repository for documentation and the intellectual property for the The Art of Tech: Not Playing with a Full Tech community until the point I can organize together a Github organization.
 
@@ -15,11 +15,11 @@ Note: This repository is not an app.  This is a monorepo used to help the group 
 [![All Contributors](https://img.shields.io/badge/all_contributors-bot-orange.svg?style=flat-square)](#contributors-)
 
 <div>
-<img src="https://img.shields.io/github/discussions/gbowne1/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/license/gbowne1/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/contributors/gbowne1/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/gbowne1/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/issues/gbowne1/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/discussions/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/license/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/contributors/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/taotnpwaft?style=for-the-badge">
 </div>
 
 ## Tech Stack 🗃
