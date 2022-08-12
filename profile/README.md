@@ -1,6 +1,6 @@
 # The Art of Tech: Not Playing with a Full Tech
 
-If you would like to know more about our group please see (ABOUT.md)[https://github.com/taotnpwaft/metadata/blob/main/ABOUT.md]
+If you would like to know more about our group please see [ABOUT.md](https://github.com/taotnpwaft/metadata/blob/main/ABOUT.md)
 
 This is the global repository for documentation and the intellectual property for the The Art of Tech: Not Playing with a Full Tech community until the point I can organize together a Github organization.
 
@@ -94,13 +94,7 @@ How can you contribute to our community? If you would like to contribute to our 
 
 ## Contributors
 
-Thanks goes to these wonderful people ✨✨:
-
-<a href="https://github.com/gbowne1/taotnpwaft/graphs/contributors">
-  <a href="https://github.com/gbowne1/taotnpwaft/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gbowne1/taotnpwaft" />
-</a>
-<p>Made with [contrib.rocks](https://contrib.rocks)</p>
+Please see our [CONTRIBUTORS.md] file.
 
 Congrats!! You have read this far, it means you know our motive very well and we would love to see your support please consider contributing to our documentation or supporting us.  Your participation lets us know you are interested in helping us grow.
 
