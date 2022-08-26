@@ -2,24 +2,37 @@
 
 If you would like to know more about our group please see [ABOUT.md](https://github.com/taotnpwaft/metadata/blob/main/ABOUT.md)
 
-This is the global repository for documentation and the intellectual property for the The Art of Tech: Not Playing with a Full Tech community until the point I can organize together a Github organization.
+This is the global repository for documentation and the intellectual property for the The Art of Tech: Not Playing with a Full Tech community. It also contains our group projects.  
 
-The Art of Tech: Not Playing with a Full Tech was created originally as a Facebook Group but has grown in to a small community of like minded tech hobbyists and professionals alike.
+We use GitHub to maintain our group. We are on our way to becoming an OpenGovernance and an OpenOrganization as well as adopting FOSS/OSS policies.
 
-This repository also contains editor configuration/settings and workspace files for Sublime Text, Visual Studio, VSCode to aid staff in creating group content and other meta files and documentation.
+## Our Rules and Policies
 
-This repository could possibly become a model for other similar social media technology groups who wish to get their meta in order to start.
+See here: [Rules](https://github.com/taotnpwaft/metadata/blob/main/GROUP_POLICY_DRAFT.md) [DRAFT] 
 
-Note: This repository is not an app.  This is a monorepo used to help the group start working on projects (i.e our website) and for storing group metadata & documentation.
+This is working draft of our core policy.  It needs significant work to be implemented and will eventually end up [here](https://github.com/taotnpwaft/docs/) when it is final and adopted.
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-bot-orange.svg?style=flat-square)](#contributors-)
+## Our Projects
+
+There are many projects we are getting started on including our [Website](https://github.com/taotnpwaft/website). See Tech Stack: Website below. 
+
+There is a list of some projects [here](https://github.com/taotnpwaft/projects/discussions/3) and [here](https://github.com/taotnpwaft/projects/discussions/7) you could possibly work on and contribute too.
+
+At some point we would like to release a Linux distribution from scratch, which would not be a re-spin.  If there is interest in that, let us know.
+We are also working on a retro Operating System (OS) indended for x86 IA-32 made with C.
+
+If you are a .NET developer with knowledge of .NET 3.1 to .NET 5, REACT, Angular, and do PHP and SQL or other backend work let us know as well.
+
+## Our Team
+
+We have a small number of contributors who maintain this organization.  If you would like to become a member of our team working on individual projects. You can request to be a member of our teams [here](https://github.com/orgs/taotnpwaft/teams). 
+
+[This](https://github.com/taotnpwaft/projects/tree/main/config) repository also contains editor configuration/settings and workspace files for Sublime Text, Visual Studio, VSCode to aid staff in creating group content and other meta files and documentation.
+
+We would like this organization and repository to become a model for other similar social media technology groups who wish to get their metadata in order to start. It could also be useful for tech and programming/coding streamers with a significant community.
 
 <div>
-<img src="https://img.shields.io/github/discussions/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/license/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/contributors/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/taotnpwaft?style=for-the-badge">
-<img src="https://img.shields.io/github/issues/taotnpwaft?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/taotnpwaft?style=for-the-badge"
 </div>
 
 ## Tech Stack 🗃
@@ -55,14 +68,17 @@ Note: This repository is not an app.  This is a monorepo used to help the group 
 
  <a href="https://discord.com/invite/KydrUs4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href="https://www.reddit.com/r/TheArtofTech/"><img src="https://img.shields.io/reddit/subreddit-subscribers/TheArtOfTech?style=for-the-badge"></a>
- <a href="https://www.facebook.com/groups/918445681921895"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  <a href="https://youtube.com/channel/UC2hE-HmchxgjsmfRcJ3S25w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 ## How to contribute?
 
-Get started with the contribution guidelines [here]([https://github.com/taotnpwaft/blob/master/CONTRIBUTING.md](https://github.com/taotnpwaft/metadata/blob/main/CONTRIBUTING.md)).
+Get started with the contribution guidelines [here](https://github.com/taotnpwaft/blob/master/CONTRIBUTING.md).  
+ 
 
-We are actively looking for active contributors and participation to this group and its meta.  If you would like to see the things we need help with, please see TODO.md and also the [Issues] tab and the Project board on this repository as well as the one at [Wesbsite Repository](https://www.github.com/taotnpwaft/website/)
+If you are not a developer, coder, programmer.. there are a number of projects and things we would love for you to contribute to. Let us know!  
+We are working on a Developer guide.
+
+We are actively looking for active contributors and participation to this group and it's metadata.  If you would like to see the things we need help with, please see TODO.md and also the [Issues] tab and the Project board on this repository as well as the one at [Wesbsite Repository](https://www.github.com/taotnpwaft/website/)
 
 We would like to encourage you to participate in making this one of the best social media based tech groups there is.
 
