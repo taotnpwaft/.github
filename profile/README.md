@@ -110,6 +110,8 @@ How can you contribute to our community? If you would like to contribute to our 
 
 ## Contributors
 
+Please see our [CONTRIBUTORS.md] file.
+
 Congrats!! You have read this far, it means you know our motive very well and we would love to see your support please consider contributing to our documentation or supporting us.  Your participation lets us know you are interested in helping us grow.
 
 There are a few things you can do to help us out.

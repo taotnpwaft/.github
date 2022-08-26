@@ -100,7 +100,8 @@ Thanks goes to these wonderful people ✨✨:
   <a href="https://github.com/gbowne1/taotnpwaft/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gbowne1/taotnpwaft" />
 </a>
-<p>Made with [contrib.rocks](https://contrib.rocks)</p>
+
+Made with [contrib.rocks](https://contrib.rocks)
 
 Congrats!! You have read this far, it means you know our motive very well and we would love to see your support please consider contributing to our documentation or supporting us.  Your participation lets us know you are interested in helping us grow.
 
